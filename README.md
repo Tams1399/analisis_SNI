@@ -141,7 +141,7 @@ Si tienes preguntas, solicitudes, o bugs para reportar, abre un issue en github,
 
 ### Dev Team
 Israel Aguilar-Ordonez <iaguilaror@gmail.com>   
-Tu NOMBRE ROCKSTAR <tucorreo@mail.com>
+Tania Montejo Santos <tanimontsan@gnail.com>
 
 ### Cita nuestro trabajo
 https://link.springer.com/article/10.1007/s11357-023-00977-1
